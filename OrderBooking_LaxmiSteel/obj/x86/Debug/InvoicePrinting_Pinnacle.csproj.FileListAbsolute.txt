@@ -1,0 +1,28 @@
+E:\ird\InvoicePrinting_Pinnacle\bin\Debug\InvoicePrinting_Pinnacle.exe.config
+E:\ird\InvoicePrinting_Pinnacle\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\ird\InvoicePrinting_Pinnacle\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\ird\InvoicePrinting_Pinnacle\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\ird\InvoicePrinting_Pinnacle\obj\x86\Debug\InvoicePrinting_Pinnacle.csproj.ResolveComReference.cache
+E:\ird\InvoicePrinting_Pinnacle\obj\x86\Debug\InvoicePrinting_Pinnacle.csprojResolveAssemblyReference.cache
+E:\ird\InvoicePrinting_Pinnacle\obj\x86\Debug\InvoicePrinting_Pinnacle.DisplayReport.resources
+E:\ird\InvoicePrinting_Pinnacle\obj\x86\Debug\InvoicePrinting_Pinnacle.ReportDisplay.resources
+E:\ird\InvoicePrinting_Pinnacle\obj\x86\Debug\InvoicePrinting_Pinnacle.Form1.resources
+E:\ird\InvoicePrinting_Pinnacle\obj\x86\Debug\InvoicePrinting_Pinnacle.csproj.GenerateResource.Cache
+E:\ird\InvoicePrinting_Pinnacle\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\ird\InvoicePrinting_Pinnacle\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\InvoicePrinting_Pinnacle\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\InvoicePrinting_Pinnacle\bin\Debug\InvoicePrinting_Pinnacle.exe
+E:\ird\InvoicePrinting_Pinnacle\bin\Debug\InvoicePrinting_Pinnacle.pdb
+E:\ird\InvoicePrinting_Pinnacle\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\InvoicePrinting_Pinnacle\bin\Debug\System.Net.Http.Formatting.dll
+E:\ird\InvoicePrinting_Pinnacle\bin\Debug\Newtonsoft.Json.dll
+E:\ird\InvoicePrinting_Pinnacle\bin\Debug\System.Net.Http.Formatting.xml
+E:\ird\InvoicePrinting_Pinnacle\obj\x86\Debug\InvoicePrinting_Pinnacle.exe
+E:\ird\InvoicePrinting_Pinnacle\obj\x86\Debug\InvoicePrinting_Pinnacle.pdb
+E:\ird\OrderBooking_LaxmiSteel\bin\Debug\InvoicePrinting_Pinnacle.exe.config
+E:\ird\OrderBooking_LaxmiSteel\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\ird\OrderBooking_LaxmiSteel\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\ird\OrderBooking_LaxmiSteel\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\ird\OrderBooking_LaxmiSteel\obj\x86\Debug\InvoicePrinting_Pinnacle.csproj.ResolveComReference.cache
+E:\ird\OrderBooking_LaxmiSteel\obj\x86\Debug\InvoicePrinting_Pinnacle.exe
+E:\ird\OrderBooking_LaxmiSteel\obj\x86\Debug\InvoicePrinting_Pinnacle.pdb

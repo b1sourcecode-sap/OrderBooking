@@ -1,0 +1,19 @@
+D:\IRD\InvoicePrinting_LIMotorsPokhra\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\IRD\InvoicePrinting_LIMotorsPokhra\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\IRD\InvoicePrinting_LIMotorsPokhra\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\IRD\InvoicePrinting_LIMotorsPokhra\bin\Debug\InvoicePrinting_LIMotors.exe.config
+D:\IRD\InvoicePrinting_LIMotorsPokhra\bin\Debug\InvoicePrinting_LIMotors.exe
+D:\IRD\InvoicePrinting_LIMotorsPokhra\bin\Debug\InvoicePrinting_LIMotors.pdb
+D:\IRD\InvoicePrinting_LIMotorsPokhra\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\IRD\InvoicePrinting_LIMotorsPokhra\bin\Debug\Newtonsoft.Json.dll
+D:\IRD\InvoicePrinting_LIMotorsPokhra\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\IRD\InvoicePrinting_LIMotorsPokhra\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\IRD\InvoicePrinting_LIMotorsPokhra\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\IRD\InvoicePrinting_LIMotorsPokhra\obj\x64\Debug\InvoicePrinting_LIMotors.csproj.ResolveComReference.cache
+D:\IRD\InvoicePrinting_LIMotorsPokhra\obj\x64\Debug\InvoicePrinting_LIMotors.DisplayReport.resources
+D:\IRD\InvoicePrinting_LIMotorsPokhra\obj\x64\Debug\InvoicePrinting_LIMotors.ReportDisplay.resources
+D:\IRD\InvoicePrinting_LIMotorsPokhra\obj\x64\Debug\InvoicePrinting_LIMotors.Form1.resources
+D:\IRD\InvoicePrinting_LIMotorsPokhra\obj\x64\Debug\InvoicePrinting_LIMotors.csproj.GenerateResource.Cache
+D:\IRD\InvoicePrinting_LIMotorsPokhra\obj\x64\Debug\InvoicePrinting_LIMotors.exe
+D:\IRD\InvoicePrinting_LIMotorsPokhra\obj\x64\Debug\InvoicePrinting_LIMotors.pdb
+D:\IRD\InvoicePrinting_LIMotorsPokhra\obj\x64\Debug\InvoicePrinting_LIMotors.csprojResolveAssemblyReference.cache

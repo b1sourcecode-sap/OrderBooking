@@ -1,0 +1,9 @@
+
+<Application>
+	<Menus>
+		
+		<action type="add">
+    <Menu Checked="0" Enabled="1" FatherUID="2048" String="Rate Booking" Type="1" position="2" UniqueID="OrdBook" />
+    </action>
+	</Menus>
+</Application> 

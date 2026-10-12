@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CompanyDetails>
+
+  <DatabaseServerName>192.168.11.100:30015</DatabaseServerName>
+  <dbUser>SYSTEM</dbUser>
+  <dbPassword>P@ssw0rD</dbPassword>
+  <Database>LIM_LIVE_DB</Database>
+  <LicenseServerName>192.168.11.100</LicenseServerName>
+  
+  <WebUserName>304768422</WebUserName>
+  <WebPassword>w#h=LWuUtmb?9@52</WebPassword>
+  <seller_pan>304768422</seller_pan>
+  <buyer_pan>12345678</buyer_pan>
+  <fiscal_year>2076.077</fiscal_year>
+  <InvBaseAddress>http://cbapi.ird.gov.np</InvBaseAddress>
+  <!--<InvBaseAddress>http://202.166.207.75:8000</InvBaseAddress>-->
+  <Invresponse>api/bill</Invresponse>
+  <CRNoteresponse>api/billreturn</CRNoteresponse>
+  
+</CompanyDetails>

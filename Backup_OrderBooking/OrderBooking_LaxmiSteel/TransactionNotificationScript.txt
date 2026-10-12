@@ -1,0 +1,42 @@
+--IF (:object_type = '17' AND (:transaction_type='A' OR :transaction_type='U')) THEN
+--	error := 0;
+	--error_message := N'Ok';
+	
+	--select Count(*) into counter from (select T21."Booking Qty",SUM(T20."Quantity"),T21."U_RtBookNo" from RDR1 T20 inner join (
+	--select T10."U_Qty" as "Booking Qty",T11."SO Qty",T11."U_RtBookNo" from "@OBRTH" T10 inner join(
+ 	--select T0."U_RtBookNo",SUM(T0."Quantity") as "SO Qty" from RDR1 T0 where T0."DocEntry" = :list_of_cols_val_tab_del
+ 	--group by T0."U_RtBookNo")T11 ON T10."U_DocNum" = T11."U_RtBookNo") T21 ON T20."U_RtBookNo" = T21."U_RtBookNo"
+ 	--group by T21."Booking Qty",T21."U_RtBookNo"
+ 	--having T21."Booking Qty" < SUM(T20."Quantity"));
+	
+	-- IF :counter > 0 THEN
+	-- 	error := -200;
+	-- 	error_message := 'Order Quantity is greater then Booking Quantity' ;
+	-- END IF;
+ 
+ --END IF;
+
+--11.End
+--12.Department can not left blank-------------------------------------------------------------------------------------------
+ --IF (:object_type = '1470000113' AND :transaction_type='A' OR :transaction_type='U' ) THEN
+--counter := 0 ;
+--SELECT Count(*) into counter from "OPRQ" 
+--where IFNULL("Department",0)=0  and "DocEntry"=:list_of_cols_val_tab_del;
+--IF  :counter > 0 THEN				
+--		 error := 20;
+--	     error_message := 'Department can not left blank';
+--	 END IF;
+ --END IF;
+ --12.End----
+
+--13.Rate Booking Number can not left blank-----------------------------------------
+--IF (:object_type = '17' AND (:transaction_type='A' OR :transaction_type='U')) THEN
+--counter := 0 ;
+--SELECT Count(*) into counter from "ORDR" T0 INNER JOIN "RDR1" T1 ON T1."DocEntry"= T0."DocEntry"
+--where T0."U_MaterialType" ='TMT BAR' AND IFNULL(T1."U_RtBookNo",0)=0  and T0."DocEntry"=:list_of_cols_val_tab_del;
+--IF  :counter > 0 THEN				
+--		 error := 20;
+--	     error_message := 'Rate Booking Number can not left blank';
+--	 END IF;
+-- END IF;
+ --13.End----------

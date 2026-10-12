@@ -1,0 +1,9 @@
+IF (:object_type = '17') THEN -- AND (:transaction_type='A' OR :transaction_type='U')
+
+update T0 set T0."U_RemQty" = T0."U_Qty" - T1."Quantity" from "@OBRTH" T0 
+inner join 
+(select "U_RtBookNo",SUM(case when "CANCELED" = 'Y' then 0 else "Quantity" END) as "Quantity" 
+from RDR1 inner join ORDR ON RDR1."DocEntry" = ORDR."DocEntry" --where "CANCELED" <> 'Y'
+group by "U_RtBookNo")T1 ON T0."U_DocNum" = T1."U_RtBookNo";
+
+END IF; 
